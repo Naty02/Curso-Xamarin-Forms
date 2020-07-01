@@ -1,0 +1,6 @@
+C:\Users\Naty\Documents\Xamarin Forms\ApiDemo\UnicornDemoApi\obj\Debug\net5.0\UnicornDemoApi.csprojAssemblyReference.cache
+C:\Users\Naty\Documents\Xamarin Forms\ApiDemo\UnicornDemoApi\obj\Debug\net5.0\UnicornDemoApi.AssemblyInfoInputs.cache
+C:\Users\Naty\Documents\Xamarin Forms\ApiDemo\UnicornDemoApi\obj\Debug\net5.0\UnicornDemoApi.AssemblyInfo.cs
+C:\Users\Naty\Documents\Xamarin Forms\ApiDemo\UnicornDemoApi\obj\Debug\net5.0\UnicornDemoApi.csproj.CoreCompileInputs.cache
+C:\Users\Naty\Documents\Xamarin Forms\ApiDemo\UnicornDemoApi\obj\Debug\net5.0\UnicornDemoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Naty\Documents\Xamarin Forms\ApiDemo\UnicornDemoApi\obj\Debug\net5.0\UnicornDemoApi.MvcApplicationPartsAssemblyInfo.cache
